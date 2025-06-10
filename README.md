@@ -1,4 +1,3 @@
-Here's a clean and professional `README.md` for your **FastAPI Hello World app** with an owner route:
 
 ---
 
@@ -11,12 +10,10 @@ This is a simple FastAPI application that returns a "Hello, World!" message alon
 
 ## 📂 Project Structure
 
-```
-
-.
 ├── main.py
 ├── requirements.txt
 └── README.md
+└── render.yaml
 
 ````
 
@@ -77,7 +74,7 @@ Visit:
 ## 👩‍💻 Maintainer
 
 **Priyanka Koul**
-*“Build and Maintained by Priyanka Koul!!!”*
+*“CSE Student from AIT PUNE”*
 
 ---
 
